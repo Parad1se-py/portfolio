@@ -37,7 +37,7 @@ export const Card = styled.div`
 `;
 
 export const CTop = styled.div`
-    width: 100%;
+    width: 80%;
     height: 50%;
     padding: 3rem;
     border-radius: 2.5rem 2.5rem 0 0;
@@ -81,10 +81,10 @@ export const DisplayImage = styled(motion.div)`
 `
 
 export const DisplayImageOne = styled(motion.img)`
-    width: 25rem;
+    width: 30rem;
     position: absolute;
-    top: -10rem;
-    right: -14rem;
+    top: -13.3rem;
+    right: -14.5rem;
     transition: transform 1s;
 `
 
